@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Ujjwal-Patel-02",
   resume:
-    "https://drive.google.com/file/d/1vh-xC-o8GVRZnoGhK1ZHHQdr73QBB76b/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1mCIyDvDezOzrFstWMudaix1lTrEGpy6-/view?usp=drive_link",
   linkedin: "http://www.linkedin.com/in/ujjwal-patel-727854287",
   insta: "https://www.instagram.com/urs.truely.ujjwal/",
 };
@@ -119,7 +119,7 @@ export const experiences = [
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "MERN Stack Internship",
     company: "Flipr",
-    date: "June 2023 - July 2023",
+    date: "February 2024 - May 2024",
     desc: "Built an employee management full stack web app used MERN and deployed on Render. I was the top performer in the program.",
     skills: [
       "ReactJS",
@@ -161,15 +161,25 @@ export const education = [
 ];
 
 export const projects = [
-  
   {
     id: 2,
     title: "Blog Webiste",
     description:
       "Blog website made using React, Redux, Express, MongoDB along with JWT, Firebase Google Authentication and Tailwind CSS, which is fully responsive, where users can create the blogs and admins has its own dashboard to control the users and data.",
     image:
-      "https://github.com/Ujjwal-Patel-02/Projects-Images/blob/main/Screenshot%20(51).png",
-    tags: ["MERN ", "ReactJS", "Redux", "NodeJS", "ExpressJS", "MongoDB", "Firebase", "JWT" , "TailwindCSS", "GoogleAuth"],
+      "https://drive.google.com/file/d/1PO1QEO_UJikkm78T75lkhABA_rch9ZEz/view?usp=drive_link",
+    tags: [
+      "MERN ",
+      "ReactJS",
+      "Redux",
+      "NodeJS",
+      "ExpressJS",
+      "MongoDB",
+      "Firebase",
+      "JWT",
+      "TailwindCSS",
+      "GoogleAuth",
+    ],
     github: "https://github.com/Ujjwal-Patel-02/Blog-App",
     webapp: "https://vividnarratives.onrender.com/",
   },
@@ -179,7 +189,7 @@ export const projects = [
     description:
       "Virtual Assistant using ReactJS and Bootstrap which helps in doing tasks.",
     image:
-      "https://github.com/Ujjwal-Patel-02/Projects-Images/blob/main/Screenshot_19-7-2024_141910_ujjwal-patel-02.github.io.jpeg",
+      "https://drive.google.com/file/d/1TD__zjQjqVoeB9o6H7CmjH2qmVblaNDA/view?usp=drive_link",
     tags: ["ReaactJS", "Boostrap", "API"],
     github: "https://github.com/Ujjwal-Patel-02/Virtual-Assistant",
     webapp: "https://ujjwal-patel-02.github.io/Virtual-Assistant/",
@@ -190,7 +200,7 @@ export const projects = [
     description:
       " Dictionary page using free API and HTML,CSS,JavaScript with pronounciation.",
     image:
-      "https://github.com/Ujjwal-Patel-02/Projects-Images/blob/main/Screenshot_19-7-2024_141935_ujjwal-patel-02.github.io.jpeg",
+      "https://drive.google.com/file/d/1vigpyZZLPVUfUPve5tGT_SFmm8IkhHJL/view?usp=drive_link",
     tags: ["HTML", "JavaScript", "CSS", "API"],
     github: "https://github.com/Ujjwal-Patel-02/Dictionary",
     webapp: "https://ujjwal-patel-02.github.io/Dictionary/",
@@ -201,7 +211,7 @@ export const projects = [
     description:
       "Full Fledged snake game with sound using HTML,CSS,JavaScript.",
     image:
-      "https://github.com/Ujjwal-Patel-02/Projects-Images/blob/main/Screenshot_19-7-2024_142024_ujjwal-patel-02.github.io.jpeg",
+      "https://drive.google.com/file/d/16RDemZgUI7PS7ZFX6hbPjq3aUyythoHZ/view?usp=drive_link",
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/Ujjwal-Patel-02/Snake-Game",
     webapp: "https://ujjwal-patel-02.github.io/Snake-Game/",
@@ -217,7 +227,6 @@ export const projects = [
     github: "#",
     webapp: "#",
   },
-  
 ];
 
 export const TimeLineData = [
